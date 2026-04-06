@@ -1,0 +1,5 @@
+{
+  "name": "CodeGuard QA Agent",
+  "description": "An autonomous code testing and refactoring agent that analyzes logic, generates test suites, and optimizes code for robustness and maintainability.",
+  "requestFramePermissions": []
+}
